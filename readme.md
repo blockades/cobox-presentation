@@ -3,9 +3,32 @@ Building Blocks for a Cooperative Cloud
 
 ---
 
-### The foundations of a peer-to-peer commons cloud infrastructure
+### CoBox is
+* The foundations of a peer-to-peer commons cloud infrastructure
+* An innovative suite of open hardware and software providing:
+  * a physical box: plug and play server 
+  * a suite of cooperative tools: privacy enhancing decentralised governance tools
+  * a peer-to-peer cloud: ensuring data sovereignty, availability, resilience and back-up
 
-CoBox is an innovative suite of open hardware and software providing accessible governance tools for organisations and networks. It comprises a human-centric plug and play server with preinstalled privacy enhancing coop software designed to promote members' data sovereignty.
+---
+
+### What does CoBox do?
+
+* builds on the historic tendency for networks of coops to collaborate. 
+* leverages the benefits of self-hosting combined with peer-to-peer technologies to share responsibilities of maintaining a secure & resilient cloud.
+
+---
+
+### Why CoBox?
+
+* Ambitious
+* State of the art
+* Privacy-by-design
+* Peer-to-peer
+* Decentralised data governance
+* Data sovereignty
+* Cooperative cloud
+* Federated networks
 
 ---
 
@@ -38,14 +61,32 @@ CoBox is an innovative suite of open hardware and software providing accessible 
 ---
 #### The CoBox Team - **Business Development**
 ### Mooness Davarian 
-* Early experience coordinating European youth projects on horizontal organising, environmental awareness + anti-racism
-* 5 years experience in decentralised secure communications tech
+* 5 years coordinating European youth on horizontal organising, environmental awareness + anti-racism
+* 5 years in decentralised secure communications
 * Worked with Panoramix + NEXTLEAP EU H2020 Consortiums 
 * Works with developers to source funds, build networks, administer finances + deliver reports.
- 
+* Long member of London Social Centers Network + German Mietshauser Syndikat
 ---
 ### Our Experience
-![](https://i.imgur.com/UYDrQbJ.png)
+  
+* Robin Hood Cooperative Hedge Fund
+* Radical Routes Housing Cooperative Network
+* Loomio collaborative decision-making tool
+* CoBudget collaborative finance tool
+* D-CENT H2020 Consortium
+* DECODE H2020 Consortium
+* Panoramix H2020 Consortium
+* NEXTLEAP H2020 Consortium
+---
+### Our Experience
+* London Social Centers Network
+* Networked Radical Archives
+* Agorama Server Coop
+* Secure Scuttlebutt peer-to-peer social network
+* Mietshauser Syndikat housing cooperative network
+  
+  
+We are all experienced in effective collaboration and know how to work as a team. We are a high-EQ group, emphasising the human elements of what it takes to make great software, backed up by technical expertise.
 
 ---
 
@@ -69,7 +110,7 @@ The network of radical archives is a European wide initiative (with connections 
 
 ---
 
-![](https://i.imgur.com/bwNRIRH.png)
+![norla](./norla.png)
 
 ---
 
@@ -118,7 +159,7 @@ The CoBox business model is inspired by these projects:
 * Federation membership dues: https://mayfirst.org/en/membership-agreement/
 
 ---
-### Stakeholders
+### Stakeholders include:
 * The cooperatives purchase and deploy the CoBox cooperative cloud
   * Coops can run independent or combined networks
 * The open source software projects that are pre-installed on the box (Dat, Loomio, Dark Crystal, Cobudget)
@@ -162,3 +203,7 @@ The CoBox business model is inspired by these projects:
 - Happiness-unhappiness continuum will measure the health of peer relationships.
 - Transparency of governance will evaluate the CoBox team's responsiveness and commitment to the network.
 - Profit will be measured towards sustainable and self-sustaining growth.
+
+---
+
+Thanks for coming to our TED Talk: Ursula LeGuin vs. Ayn Rand; Go!
