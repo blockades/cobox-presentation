@@ -1,54 +1,47 @@
 ### cobox.cloud
 Building Blocks for a Cooperative Cloud
----
-
-### CoBox is
-    * the foundations of a peer-to-peer commons cloud infrastructure
 
 ---
 
-(What CoBox Does)
+### The foundations of a peer-to-peer commons cloud infrastructure
 
-
----
-
-
-### The CoBox Team
-     
-#### research
-* Jaya Klara Brekke: 
-  * published expert on the political-economies and ethics of decentralized algorithmic governance
-  * PhD from Durham University on the politics and powerdynamics of blockchain
-  * extensive experience with Agile/LEAN and co-design methods
-  * user-requirements researcher on the D-CENT project https://dcentproject.eu/)
+CoBox is an innovative suite of open hardware and software providing accessible governance tools for organisations and networks. It comprises a human-centric plug and play server with preinstalled privacy enhancing coop software designed to promote members' data sovereignty.
 
 ---
 
-#### Developer
-* Kieran Gibb: 
-  * 6 years expertise developing for SMEs and co-ops
-  * co-conceived peer-based key backup software Dark Crystal
-  * open-source contributor to Secure Scuttlebutt ecosystem
-  * member of London-based art collective Agorama Server Co-op
-  * experimenting with Dat to seed community hosting infrastructure
+#### The CoBox Team - **Research**
+### Jaya Klara Brekke 
+* Published expert on the political-economies and ethics of decentralized algorithmic governance
+* PhD from Durham University on the politics and powerdynamics of blockchain
+* Extensive experience with Agile/LEAN and co-design methods
+* User-requirements researcher on the D-CENT project https://dcentproject.eu/)
+
+---
+#### The CoBox Team - **Developer** 
+### Kieran Gibb 
+* 6 years expertise developing for SMEs and co-ops
+* co-conceived peer-based key backup software Dark Crystal
+* open-source contributor to Secure Scuttlebutt ecosystem
+* member of London-based art collective Agorama Server Co-op
+* experimenting with Dat to seed community hosting infrastructure
 
 ---
 
-#### Developer
-* Dan Hassan: 
-  * involved in coops for nearly 15 years
-  * MSc in Advanced Data Analytics 
-  * participated in building the world’s first cooperative hedge fund (Robin Hood Coop) growing the membership by 12x 
-  * involved in a 30 year long federation of housing cooperatives (Radical Routes) 
-  * long history working for various digital coops
+#### The CoBox Team **Developer**
+### Dan Hassan
+* Involved in coops for nearly 15 years
+* MSc in Advanced Data Analytics 
+* Participated in building the world’s first cooperative hedge fund (Robin Hood Coop) growing the membership by 12x 
+* Involved in a 30 year long federation of housing cooperatives (Radical Routes) 
+* Long history working for various digital coops
 
 ---
-#### Business Development
-* Mooness Davarian: 
-  * early experience coordinating European youth projects on horizontal organising, environmental awareness + anti-racism
-  * 5 years experience in decentralised secure communications tech
-  * worked with Panoramix + NEXTLEAP EU H2020 Consortiums 
-  * works with developers to source funds, build networks, administer finances + deliver reports.
+#### The CoBox Team - **Business Development**
+### Mooness Davarian 
+* Early experience coordinating European youth projects on horizontal organising, environmental awareness + anti-racism
+* 5 years experience in decentralised secure communications tech
+* Worked with Panoramix + NEXTLEAP EU H2020 Consortiums 
+* Works with developers to source funds, build networks, administer finances + deliver reports.
  
 ---
 ### Our Experience
@@ -64,14 +57,21 @@ Building Blocks for a Cooperative Cloud
 * Networks have existing conferences, events and communications channels 
 
 ---
-### Our Partners
-* CoTech is a network of technology cooperatives that operate on fully democratic principles. https://www.coops.tech/
+### Our Partners - **CoTech**
+
+CoTech is a network of technology cooperatives that operate on fully democratic principles. https://www.coops.tech/
 ![](https://i.imgur.com/rnov99y.png)
-* Network of Radical Archives ~ The network of radical archives is a European wide initiative (with connections to India and the US) to coordinate and share resources amongst archives that look to preserve and record histories of social movements, experimental culture and marginalised figures and groups. http://norla.org/
-![](https://i.imgur.com/bwNRIRH.png)
 
 ---
 
+### Our Partners - **Norla**
+The network of radical archives is a European wide initiative (with connections to India and the US) to coordinate and share resources amongst archives that look to preserve and record histories of social movements, experimental culture and marginalised figures and groups. http://norla.org/
+
+---
+
+![](https://i.imgur.com/bwNRIRH.png)
+
+---
 
 ### The Problem
 
@@ -81,13 +81,18 @@ Co-operatives face a significant challenge of divesting from proprietary softwar
 
 ### Our Solution
         
-        ![](https://i.imgur.com/sxBNwxG.png)
 
 * CoBox leverages the latest innovations in micro-computing, decentralised networking and data replication technologies for co-operatives to mutually host and seed secure data storage - the foundations of a peer-to-peer commons cloud infrastructure. 
 
 * Our software places privacy-by-design at the forefront of its innovation, using modern cryptography to ensure data sovereignty from the level of the individual to the co-operative and beyond.
 
+---
+### Our Solution
+
 * CoBox provides an interoperable suite of tools for common coordination (decision-making, governance and accounting software), and offers integration for collaborative office software (documents, spreadsheets, calendars):
+
+Note:
+![](https://i.imgur.com/sxBNwxG.png)
 
 ---
 
@@ -98,7 +103,9 @@ Co-operatives face a significant challenge of divesting from proprietary softwar
 
 ### CoBudget example
 ![](https://i.imgur.com/UfwJSAI.png)
-* CoBudget Platform Coop (like the Enspiral Foundation)
+---
+
+### CoBudget Platform Coop (like the Enspiral Foundation)
 ![](https://i.imgur.com/jMyBL85.png)
 
 ---
@@ -139,12 +146,19 @@ The CoBox business model is inspired by these projects:
 * Like the cooperatives that we aim to serve, CoBox will not be solely profit-driven. 
 * Our measurement metrics are adapted from other open source, p2p and cooperative community projects.
 
-  1. Measuring peer-engagement and network growth:
-    i. Increase in size of network
-    ii. Increase in internal connectivity
-    iii. Increase in connections to valuable third parties
- 
-  2. Measuring share ratio so peers can recognise their own contributions. 
-  3. Happiness-unhappiness continuum will measure the health of peer relationships.
-  4. Transparency of governance will evaluate the CoBox team's responsiveness and commitment to the network.
-  5. Profit will be measured towards sustainable and self-sustaining growth.
+---
+
+### Metrics
+
+- Measuring peer-engagement and network growth:
+  - i. Increase in size of network
+  - ii. Increase in internal connectivity
+  - iii. Increase in connections to valuable third parties
+
+---
+
+### Metrics
+- Measuring share ratio so peers can recognise their own contributions. 
+- Happiness-unhappiness continuum will measure the health of peer relationships.
+- Transparency of governance will evaluate the CoBox team's responsiveness and commitment to the network.
+- Profit will be measured towards sustainable and self-sustaining growth.
