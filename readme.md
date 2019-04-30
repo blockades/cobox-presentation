@@ -27,7 +27,7 @@ CoBox is an innovative suite of open hardware and software providing accessible 
 
 ---
 
-#### The CoBox Team **Developer**
+#### The CoBox Team - **Developer**
 ### Dan Hassan
 * Involved in coops for nearly 15 years
 * MSc in Advanced Data Analytics 
