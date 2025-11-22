@@ -49,16 +49,6 @@ Building Blocks for a Cooperative Cloud
 * experimenting with Dat to seed community hosting infrastructure
 
 ---
-
-#### The CoBox Team - **Developer**
-### Dan Hassan
-* Involved in coops for nearly 15 years
-* MSc in Advanced Data Analytics 
-* Participated in building the world’s first cooperative hedge fund (Robin Hood Coop) growing the membership by 12x 
-* Involved in a 30 year long federation of housing cooperatives (Radical Routes) 
-* Long history working for various digital coops
-
----
 #### The CoBox Team - **Business Development**
 ### Mooness Davarian 
 * 5 years coordinating European youth on horizontal organising, environmental awareness + anti-racism
@@ -69,8 +59,6 @@ Building Blocks for a Cooperative Cloud
 ---
 ### Our Experience
   
-* Robin Hood Cooperative Hedge Fund
-* Radical Routes Housing Cooperative Network
 * Loomio collaborative decision-making tool
 * CoBudget collaborative finance tool
 * D-CENT H2020 Consortium
